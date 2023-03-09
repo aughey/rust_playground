@@ -1,0 +1,3 @@
+# workspace adding reftest
+[workspace]
+members = ["reftest","ndarray_discord"]
